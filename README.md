@@ -1,0 +1,2 @@
+# dmkonji
+DejoMisoKonji
